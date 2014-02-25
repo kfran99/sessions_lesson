@@ -1,5 +1,5 @@
 ADMIN_USER="hackbright"
-ADMIN_PASSWORD=803096023
+ADMIN_PASSWORD=5980025637247534551
 
 def authenticate(username, password):
     return False
